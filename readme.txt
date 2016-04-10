@@ -1,4 +1,17 @@
 Cheung Wing Hin 15030493g
+In order to read my source code, I have already add suitable comments before each of the method.
+Here are the following things that I have created,
+1.create JFrame and JTable
+2.create a table model and set a Column Identifiers to this model
+3.create JTextFields
+4.create JButtons and set bounds
+5.create JScrollPane
+6.add JTextFields,JButtons to the jframe
+7.addMouseListener of textApplyLeavefrom, textApplyLeaveto and table
+8.create an array of objects to set the row data
+9.button add row,button remove row, button update row,button sick leave apply
+
+
 First, when you started the program, you will see a panel. The upper part is the information display and the lower part is the item you can insert.
 
 Second, you will see Staff id, Staff name, Supervisor field. As the fisrt one is default as director so no supervisor is needed. Then, you can set 
